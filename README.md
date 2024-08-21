@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashmit Gupta</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Mobile App Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" border = "4px solid white" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashmit_gupta_05" target="blank"><img src="https://img.shields.io/twitter/follow/ashmit_gupta_05?logo=twitter&style=for-the-badge" alt="ashmit_gupta_05" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development (JAVA)**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 📫 How to reach me **ashmitgupta.ann05@gmail.com**
 
